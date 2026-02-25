@@ -18,6 +18,13 @@ This repository contains assignments completed during my AI with Cloud internshi
    - Categorizes age using conditionals
    - Generates personalized response
    - Demonstrates functions and scope
+     
+ 3. Logic Builder (FizzBuzz with Count)
+   - Prints numbers from 1 to 50 using Fizz/Buzz logic
+   - Uses loop and modulus operator for condition checking
+   - Counts total occurrences of Fizz, Buzz, and FizzBuzz
+   - Implements dictionary-based rule mapping
+   - Displays summary at the end
 
 ## Skills Practiced
 - Python programming
