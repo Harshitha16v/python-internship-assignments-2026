@@ -25,6 +25,17 @@ This repository contains assignments completed during my AI with Cloud internshi
    - Counts total occurrences of Fizz, Buzz, and FizzBuzz
    - Implements dictionary-based rule mapping
    - Displays summary at the end
+ 4️. NumPy Speed Test
+   - Compared Python lists vs NumPy arrays (1M numbers)
+   - Measured execution time
+   - Analyzed performance difference
+   - Documented key observations
+ 5️. Dataset Detective
+   - Loaded dataset using Pandas
+   - Displayed top rows
+   - Identified highest value column
+   - Counted missing values
+   - Generated 5 analytical insights
 
 ## Skills Practiced
 - Python programming
@@ -33,6 +44,9 @@ This repository contains assignments completed during my AI with Cloud internshi
 - Input handling
 - Basic GUI development
 - Git & GitHub workflow
+- Dictionaries & Data Structures
+- NumPy & Performance Testing
+- Pandas Data Analysis
 
 ---
 
