@@ -26,21 +26,47 @@ This repository contains assignments completed during my AI with Cloud internshi
    - Implements dictionary-based rule mapping
    - Displays summary at the end
 
- 
- 4️. NumPy Speed Test
+  4️. NumPy Speed Test
    - Compared Python lists vs NumPy arrays (1M numbers)
    - Measured execution time
    - Analyzed performance difference
    - Documented key observations
 
- 
- 5️. Dataset Detective
+  5️. Dataset Detective
    - Loaded dataset using Pandas
    - Displayed top rows
    - Identified highest value column
    - Counted missing values
    - Generated 5 analytical insights
 
+  6. Data Doctor
+   - Implemented a dataset cleaning pipeline using Pandas
+   - Detected and handled missing values using mean/mode replacement
+   - Removed duplicate records to improve data quality
+   - Standardized text columns for consistent formatting
+   - Generated a dataset health report showing cleaning summary and improvements
+   - Demonstrated the importance of data preprocessing before analysis and machine learning
+
+  7. Storytelling with Graphs
+   - Created data visualizations using Matplotlib
+   - Generated Bar Chart, Pie Chart, and Histogram
+   - Analyzed student study hours and marks dataset
+   - Explained trends using data storytelling approach
+
+  8. ML Idea Generator
+   - Built a Python program to generate Machine Learning project ideas
+   - Explored ML applications in College, Healthcare, and Shopping domains
+   - Defined problem statements, input features, and expected outputs
+   - Demonstrated how ML solutions can be designed for real-world scenarios
+
+  9. Build Your First Dataset
+   - Generated a synthetic dataset using Python
+   - Created Study Hours vs Marks dataset
+   - Identified feature (StudyHours) and label (Marks)
+   - Explained the relationship between study time and academic performance
+   - Saved dataset to CSV for future ML model training
+
+     
 ## Skills Practiced
 - Python programming
 - Conditional statements
